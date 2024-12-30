@@ -30,7 +30,7 @@ import iniknumber
 nik_number = "3202080504910003"
 
 # Parse the NIK
-result = iniknumber.check_code(nik_number)
+result = iniknumber.iniknumber(nik_number)
 
 # Print the result
 print(result)
