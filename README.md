@@ -87,10 +87,6 @@ This data is used to translate codes into human-readable names.
 
 Contributions are welcome! If you’d like to improve the package or add features, please fork the repository and submit a pull request.
 
-## License
-
-This project is licensed under the MIT License. See the LICENSE file for details.
-
 ## Contact
 
-For questions or suggestions, feel free to reach out via the [GitHub repository](https://github.com/yourusername/iniknumber).
+For questions or suggestions, feel free to reach out via the [GitHub repository](https://github.com/irwannafly13/iniknumber).
